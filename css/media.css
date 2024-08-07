@@ -1,0 +1,301 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+		/*header start*/
+header{
+	padding: 5px 0;
+	
+}
+.logo{
+	width: 180px;
+}
+.menu ul li a{
+	padding: 0 5px 8px !important;
+}
+/*banner start*/
+.banner{
+	padding: 0 0 60px;
+}
+.b_text{
+	text-align: center;
+
+}
+.bh1{
+	margin: 10px 0px 20px;
+	font-size: 30px;
+	line-height: 45px;
+}
+.bp2{
+	margin: 0 0px;
+	line-height: 30px;
+}
+
+.b_img{
+	margin: 0 0 30px;
+}
+/*feature start*/
+.c_pad{
+	padding-bottom: 60px;
+}
+.s_f{
+	margin: 30px 0 0;
+
+}
+.sf_img{
+	width: 55px;
+	height: 75px;
+}
+.sf_h2{
+	margin: 15px 0 0;
+	font-size:20px ;
+	line-height:30px ;
+}
+/*course start*/
+.c_h1{
+	font-size: 25px;
+	line-height: 40px;
+}
+.c_single{
+	margin: 30px 0px 0;
+	padding: 20px 15px 25px;
+}
+.ch1{
+	font-size: 20px;
+
+}
+.cf_left ul li span,.cf_right ul li span{
+	font-size: 15px;
+}
+.cf_left ul li img,.cf_right ul li img{
+  width: 20px;
+}
+.c_h1{
+	font-size: 25px;
+	line-height: 40px;
+}
+/*testimony start*/
+.testimony{
+	padding-bottom:60px;
+}
+.t_item{
+	margin-top: 30px;
+
+}
+.t_img{
+	padding: 0 60px 20px;
+}
+.t_text{
+	text-align: center;
+}
+/*footer top start*/
+.footer_top{
+	text-align: center;
+	padding: 55px 0 20x;
+}
+.ft_data{
+	margin-bottom: 35px;
+	padding-right: 0px;
+}
+.ft_m{
+	margin-left: 0px;
+}
+.ft_links{
+	margin-bottom: 35px;
+}
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+	/*header start*/
+header{
+	padding: 5px 0;
+	
+}
+.menu ul li a{
+	padding: 0 5px 8px !important;
+}
+/*banner start*/
+.banner{
+	padding: 0 0 60px;
+}
+.b_text{
+	text-align: center;
+
+}
+.bh1{
+	margin: 10px 100px 20px;
+	font-size: 30px;
+	line-height: 45px;
+}
+.bp2{
+	margin: 0 50px;
+	line-height: 30px;
+}
+
+.b_img{
+	margin: 0 30px 30px;
+}
+/*feature start*/
+.c_pad{
+	padding-bottom: 60px;
+}
+.s_f{
+	margin: 30px 0 0;
+
+}
+.sf_img{
+	width: 55px;
+	height: 75px;
+}
+.sf_h2{
+	margin: 15px 0 0;
+	font-size:20px ;
+	line-height:30px ;
+}
+/*course start*/
+.c_h1{
+	font-size: 25px;
+	line-height: 40px;
+}
+.c_single{
+	margin: 30px 50px 0;
+	padding: 20px 15px 25px;
+}
+.ch1{
+	font-size: 20px;
+
+}
+.cf_left ul li span,.cf_right ul li span{
+	font-size: 15px;
+}
+.cf_left ul li img,.cf_right ul li img{
+  width: 20px;
+}
+/*testimony start*/
+.testimony{
+	padding-bottom:60px;
+}
+.t_item{
+	margin-top: 30px;
+
+}
+.t_img{
+	padding: 0 180px 20px;
+}
+.t_text{
+	text-align: center;
+}
+/*footer top start*/
+.footer_top{
+	text-align: center;
+
+}
+.ft_data{
+	margin-bottom: 35px;
+	padding-right: 70px;
+	padding-left: 70px;
+}
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header start*/
+header{
+	padding: 10px 0;
+	
+}
+.menu ul li a{
+	padding: 0 5px 8px !important;
+}
+/*banner start*/
+
+.b_text{
+	text-align: center;
+
+}
+.bh1{
+	margin: 10px 90px 20px;
+}
+.bp2{
+	margin: 0 90px;
+}
+
+.b_img{
+	margin: 0 50px 30px;
+}
+/*feature start*/
+.c_pad{
+	padding-bottom: 80px;
+}
+/*course start*/
+.c_single{
+	margin: 30px 150px 0;
+}
+/*testimony start*/
+.testimony{
+	padding-bottom:80px;
+}
+.t_item{
+	margin-top: 40px;
+}
+/*footer top start*/
+.footer_top{
+	text-align: center;
+
+}
+.ft_data{
+	margin-bottom: 35px;
+	padding-right: 80px;
+	padding-left: 80px;
+}
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*course start*/
+.c_single{
+	padding: 20px 15px 25px;
+}
+.cli1:not(:last-child){
+	margin-right: 0px;
+}
+.cf_left ul li span,.cf_right ul li span{
+	font-size:14px;
+}
+.cf_left ul li img,.cf_right ul li img{
+	width: 20px;
+}
+/*footer top start*/
+
+	.ft_m{
+	margin-left: 0px;
+}
+}
+
+/* Extra Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+	/*footer top start*/
+
+	.ft_m{
+	margin-left: 0px;
+}
+
+}
+
+
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+	/*banner start*/
+	.bh1{
+  margin: 10px 100px 20px 0px;
+}
+/*footer top start*/
+.ft_data{
+	padding-right: 120px;
+}
+.ft_m{
+	margin-left: 0px;
+}
+}
